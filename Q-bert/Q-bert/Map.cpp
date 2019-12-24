@@ -274,6 +274,18 @@ void Map::changeTile(Point3 p)
 }
 void Map::restart()
 {
+	srand((unsigned int)time(NULL));
+	for (int i = 0; i < 4; i++)
+	{
+		tileColor[i].x = (rand() % 255 / 255.0f);
+		tileColor[i].y = (rand() % 255 / 255.0f);
+		tileColor[i].z = (rand() % 255 / 255.0f);
+	}
+	for (int j = 0; j < 28; j++)
+	{
+		tiles[j].color.set(tileColor[0]);
+	}
+
 	level = 1;
 	round = 1;
 	score = 0;
