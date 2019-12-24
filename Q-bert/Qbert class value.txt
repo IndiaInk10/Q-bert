@@ -1,0 +1,11 @@
+Qbert class need this values
+1. Position
+2. ViewPoint
+3. Life
+4. Score(for change tile)
+
+Size 5x5
+
+change color and move right place
+
+키를 입력 받고 좌표를 확인한 다음 위로 갈지 아래로 갈지 정함

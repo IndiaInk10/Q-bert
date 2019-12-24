@@ -1,0 +1,25 @@
+Qbert 게임 분석
+
+시작화면 
+JKW Games TM
+Q*bert
+TM AND C 2019
+JKW INDUSTRY CO. ,LTD.
+NINTENDO OF AMERICA INC.
+
+JKW GAMES IS A REGISTERED TRADEMARK OF JKW SOFTWARE CORPORATION
+
+조작법
+좌측 블럭 5개 사용하여 움직임 표현/ 우측 방향키 표시
+
+Level 1 표시 화면 
+
+스테이지 구성
+좌측 상단			우측 상단
+PLAYER1				레벨: %d, 5라운드당 1레벨 오름
+점수					라운드: %d, 레벨당 5라운드
+바꿔야하는 블록색깔
+생명 수
+
+점수 하나 바꿀때 25점 오름/ 기본적으로 색깔을 3가지를 가지고 시작하고 레벨이 오르면 더 많이
+바꾸도록 설정해야함. 
