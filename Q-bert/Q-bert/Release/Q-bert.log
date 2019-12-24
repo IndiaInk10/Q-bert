@@ -1,9 +1,0 @@
-﻿  main.cpp
-  Map.cpp
-  Menu.cpp
-  Qbert.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Q-bert.vcxproj -> C:\Users\user\source\repos\Q-bert\Release\Q-bert.exe
