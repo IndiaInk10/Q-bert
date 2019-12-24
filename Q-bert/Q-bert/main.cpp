@@ -137,7 +137,7 @@ void Idle()
 	if (map->round == MAX_ROUND)
 	{
 		map->level += 1;
-		map->round = 0;
+		map->round = 1;
 	}
 	if (map->checkOut(qbert.getQPos()))
 	{
